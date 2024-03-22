@@ -14,19 +14,19 @@ update: "Last Updated: 1/10/24"
     <tbody>
         <tr>
         <td>
-            <img src="/assets/profile.png" width="225" title="NYE'23 in Ottawa with family">
+            <img src="/assets/profile.jpg" width="225" title="NYE'23 in Ottawa with family">
         </td>
         <td>
             <p>
-                <b>PhD Candidate, E.I.T.</b><br>
-                Department of Electrical and Computer Engineering <br>
+                <b>PhD Candidate</b><br>
+                Department of Computing Science <br>
                 University of Alberta <br>
-                <b>Email</b> (Preferred): <a href="kgmills@ualberta.ca">kgmills@ualberta.ca </a> <br>
+                <b>Email</b> (Preferred): <a href="guanfang@ualberta.ca">guanfang@ualberta.ca </a> <br>
                 <br>
-                <b>Associate Research Intern</b> <br>
-                Huawei Technologies Canada Co. Ltd. <br>
+                <b>GGraduate Research Assistantship</b> <br>
+                Multimedia Research Centre <br>
                 Edmonton, Alberta<br>
-                <b>Email</b>: <a href="keith.g.mills@huawei.com">keith.g.mills@huawei.com </a> <br>
+                <!-- <b>Email</b>: <a href="keith.g.mills@huawei.com">keith.g.mills@huawei.com </a> <br> -->
             </p>
         </td>
         </tr>
