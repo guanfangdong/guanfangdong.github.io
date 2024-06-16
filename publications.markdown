@@ -5,50 +5,44 @@ permalink: /publications/
 update: "Last Updated: 3/21/24"
 ---
 
-### Publications
-**Guanfang Dong**, Chenqiu Zhao, Xichen Pan, and Anup Basu. <a href="https://link-to-paper.com">"Learning Temporal Distribution and Spatial Correlation Toward Universal Moving Object Segmentation"</a>, published in IEEE Transactions on Image Processing, 2024.
+### Journal Publications
+**Guanfang Dong***, Chenqiu Zhao*, Xichen Pan, and Anup Basu. <a href="https://link-to-paper.com">"Learning Temporal Distribution and Spatial Correlation Toward Universal Moving Object Segmentation"</a>, published in IEEE Transactions on Image Processing, 2024.
 A novel method for universal moving object segmentation in diverse natural scenes using temporal distribution and spatial correlation learning.
 
+Amandeep Kaur, **Guanfang Dong**. <a href="https://link-to-paper.com">"A complete review on image denoising techniques for medical images"</a>, published in Neural Processing Letters, 2023.
+Comprehensive survey of image denoising techniques for medical images, covering noise types, sources, and evaluation metrics.
 
-### Refereed Conference Proceedings
-**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24).
+Chenqiu Zhao*, **Guanfang Dong***, Shupei Zhang*, Zijie Tan, and Anup Basu. <a href="https://link-to-paper.com">"Frequency Regularization: Reducing Information Redundancy in Convolutional Neural Networks"</a>, published in IEEE Access, 2023.
+Proposes frequency regularization to minimize network parameters in the frequency domain, significantly reducing model size while maintaining accuracy.
 
-Shengyao Lu, **Keith G. Mills**, Jiao He, Bang Liu and Di Niu. <a href="https://kgmills.github.io/assets/papers/GOAt_ICLR24.pdf">"*GOAt*: Explaining Graph Neural Networks via Graph Output Attribution"</a>, accepted as a conference paper at the 12th International Conference on Learning Representations (ICLR 2024; 31.0% acceptance rate).
+**Guanfang Dong**, Yingnan Ma, and Anup Basu. <a href="https://ieee.org/pdf-link">"Feature-guided CNN for denoising images from portable ultrasound devices"</a>, published in IEEE Access, 2021.
+Proposes a novel denoising neural network model, FDCNN, to improve image quality from portable ultrasound devices using a hierarchical framework and feature masking layer.
 
-Mohammad Salameh, **Keith G. Mills**, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoGO_NeurIPS23.pdf">"AutoGO: Automated Computation Graph Optimization for Neural Network Evolution."</a> In Advances in Neural Information Processing Systems (NeurIPS 2023; 26.1% acceptance rate), vol. 36, pages 74455-74477. <br>
-[<a href="../assets/posters/AutoGO_NeurIPS23_poster.pdf">Poster</a>][<a href="https://recorder-v3.slideslive.com/?share=87224&s=4d802730-c9a2-414e-9ca2-b9f7e7c53a25https://recorder-v3.slideslive.com/?share=87224&s=4d802730-c9a2-414e-9ca2-b9f7e7c53a25">Video</a>][<a href="../assets/slides/AutoGO_NeurIPS23_slides.pdf">Slides</a>]
-
-Fred X. Han, **Keith G. Mills**, Fabian Chudak, Parsa Riahi, Mohammad Salameh, Jialin Zhang, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/general_predictor_sdm23.pdf">"A General-Purpose Transferable Predictor for Neural Architecture Search."</a> In Proceedings of the 2023 SIAM International Conference on Data Mining (SDM23; 27.4% acceptance rate), pages 721-729. <br>
-[<a href="../assets/posters/general_predictor_sdm23_poster.pdf">Poster</a>][<a href="../assets/slides/general_predictor_sdm23_slides.pdf">Slides</a>]
-
-**Keith G. Mills**, Di Niu, Mohammad Salameh, Weichen Qiu, Fred X. Han, Puyuan Liu, Jialin Zhang, Wei Lu and Shangling Jui. <a href="https://kgmills.github.io/assets/papers/AIO-P_AAAI23.pdf"> "AIO-P: Expanding Neural Performance Predictors Beyond Image Classification."</a> In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23; 19.6% acceptance rate), pages 9180-9189. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/AIO-P_AAAI23_poster.pdf">Poster</a>][<a href="https://underline.io/events/380/sessions/14509/lecture/67761-aio-p-expanding-neural-performance-predictors-beyond-image-classification">Video</a>][<a href="../assets/slides/AIO-P_AAAI23_slides.pdf">Slides</a>]
-
-**Keith G. Mills**, Fred X. Han, Jialin Zhang, Fabian Chudak, Ali Safari Mamaghani, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/GENNAPE_AAAI23.pdf"> "GENNAPE: Towards Generalized Neural Architecture Performance Estimators."</a> In Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23; 19.6% acceptance rate), pages 9190-9199. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/GENNAPE_AAAI23_poster.pdf">Poster</a>][<a href="https://underline.io/events/380/sessions/14509/lecture/67942-gennape-towards-generalized-neural-architecture-performance-estimators">Video</a>][<a href="../assets/slides/GENNAPE_AAAI23_slides.pdf">Slides</a>]
-
-Shengyao Lu, Bang Liu, **Keith G. Mills**, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/R5_ICLR22.pdf"> "R5: Rule Discovery with Reinforced and Recurrent Relational Reasoning," </a> published in the 10th International Conference on Learning Representations (ICLR 2022; 32.9% acceptance rate).<br>
-<span style="background-color: #4169e1;color:white">Spotlight paper</span><br>
-[<a href="https://iclr.cc/virtual/2022/poster/7053">Video</a>]
-
-**Keith G. Mills**, Fred X. Han, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/BlockProfiling_CIKM21.pdf"> "Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 23.8% acceptance rate) as an Applied Research Paper, pages 4026-4035. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/BlockProfiling_CIKM21_poster.pdf">Poster</a>][<a href="https://dl.acm.org/doi/10.1145/3459637.3481944">Video</a>][<a href="../assets/slides/BlockProfiling_CIKM21_slides.pdf">Slides</a>]
-
-**Keith G. Mills**, Fred X. Han, Mohammad Salameh, Seyed Saeed Changiz Rezaei, Linglong Kong, Wei Lu, Shuo Lian, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/papers/L2NAS_CIKM21.pdf"> "L<sup>2</sup>NAS: Learning to Optimize Neural Architectures via Continuous-Action Reinforcement Learning."</a> In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM '21; 21.7% acceptance rate), pages 1284-1293. <br>
-<span style="background-color: #7851A9;color:white">Selected for oral presentation</span><br>
-[<a href="../assets/posters/L2NAS_CIKM21_poster.pdf">Poster</a>][<a href="https://dl.acm.org/doi/10.1145/3459637.3482360">Video</a>][<a href="../assets/slides/L2NAS_CIKM21_slides.pdf">Slides</a>]
-
-Seyed Saeed Changiz Rezaei, Fred X. Han, Di Niu, Mohammad Salameh, **Keith Mills**, Shuo Lian, Wei Lu and Shangling Jui. <a href="https://kgmills.github.io/assets/papers/GA-NAS_IJCAI21.pdf"> "Generative Adversarial Neural Architecture Search."</a> In Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21; 13.9% acceptance rate), pages 2227-2234.<br>
-[<a href="https://ijcai-21.org/videos-slides/?video=3345">Videos and Slides</a>]
-
-### Refereed Journal Publications
-**Keith G. Mills**, Mohammad Salameh, Di Niu, Fred X. Han, Seyed Saeed Changiz Rezaei, Hengshuai Yao, Wei Lu, Shuo Lian and Shangling Jui. <a href="https://kgmills.github.io/assets/papers/DDAS_IEEEAccess.pdf">"Exploring Neural Architecture Search Space via Deep Deterministic Sampling,"</a> published in IEEE Access, Vol. 9 (2021), pages 110962-110974.
-
-Chenglin Li, **Keith Mills**, Rui Zhu, Di Niu, Hongwen Zhang and Husam Kinawi. <a href="https://kgmills.github.io/assets/papers/Android_Malware_Factorization_IEEEAccess.pdf">"Android Malware Detection based on Factorization Machine,"</a> published in IEEE Access, Vol. 7 (2019), pages 184008-184019.
+### Conference Proceedings
+**Guanfang Dong** and Anup Basu. <a href="https://conference-link.com">"Medical Image Denoising via Explainable AI Feature Preserving Loss"</a>, presented at the 4th International Conference on SMART MULTIMEDIA, 2024.
+Proposes a novel denoising method for medical images using a gradient-based XAI approach to design a feature-preserving loss function, enhancing both denoising performance and model explainability.
 
 
-### Poster Presentations
-**Keith G. Mills**, Muhammad Fetrat Qharabagh, Weichen Qiu, Fred X. Han, Mohammad Salameh, Wei Lu, Shangling Jui and Di Niu. <a href="https://kgmills.github.io/assets/posters/applying_get_op_fusion_DAC2023.pdf">"Applying Graph Explanation to Operator Fusion,"</a> presented as a Work-In-Progress (WIP) poster at the 60th ACM/EDAC/IEEE Design Automation Conference (DAC 2023) in San Francisco on July 12th, 2023.
+Zijie Tan, **Guanfang Dong**, Chenqiu Zhao, and Anup Basu. <a href="https://arxiv.org/pdf-link">"Affine-Transformation-Invariant Image Classification by Differentiable Arithmetic Distribution Module"</a>, presented at the 4th International Conference on SMART MULTIMEDIA, 2024.
+Introduces a robust module incorporating distribution learning techniques to enhance CNNs' resistance to affine transformations using differentiable arithmetic distribution modules.
+
+**Guanfang Dong***, Chenqiu Zhao*, and Anup Basu. <a href="https://doi.org/10.1109/VCC60689.2023.10474783">"Bridging Distribution Learning and Image Clustering in High-dimensional Space"</a>, presented at the 2023 IEEE Virtual Conference on Communications (VCC), NY, USA, 2023.
+Explores the correlation between distribution learning and clustering using autoencoders and Gaussian Mixture Models to improve clustering in high-dimensional spaces.
+
+**Guanfang Dong** and Anup Basu. <a href="https://link-to-paper.com">"Unsupervised Face Frontalization GAN Driven by 3D Rotation and Symmetric Filling"</a>, presented at the 3rd International Conference on SMART MULTIMEDIA, 2022, pages 59-74. Published by Springer International Publishing.
+Proposes a self-supervised method for face frontalization using 3D rotation and symmetric filling with GANs, enhancing robustness to diverse facial variations.
+
+**Guanfang Dong** and Anup Basu. <a href="https://link-to-paper.com">"MoCap Trajectory-Based Animation Synthesis and Perplexity Driven Compression"</a>, presented at the 3rd International Conference on SMART MULTIMEDIA, 2022, pages 419-429. Published by Springer International Publishing.
+Develops a 3D Motion Capture animation synthesis and compression pipeline using object detection and perceptually adaptive compression, achieving ultra-low bitrate storage.
+
+Amandeep Kaur, **Guanfang Dong**, and Anup Basu. <a href="https://link-to-paper.com">"GradXcepUNet: Explainable AI based medical image segmentation"</a>, presented at the 3rd International Conference on Smart Multimedia, 2022, pages 174-188. Published by Springer International Publishing.
+Introduces GradXcepUNet, an XAI-based model combining U-Net's segmentation capabilities with Xception's explainability via Grad-CAM, achieving high accuracy in medical image segmentation.
+
+Zihan Wang, Ruimin Chen, Mengxuan Liu, **Guanfang Dong**, and Anup Basu. <a href="https://link-to-paper.com">"SPGNet: Spatial projection guided 3D human pose estimation in low dimensional space"</a>, presented at the International Conference on Smart Multimedia, 2022, pages 41-55. Published by Springer International Publishing.
+Proposes SPGNet for 3D human pose estimation using multi-dimensional re-projection and kinematic constraints, achieving superior performance on the Human3.6M dataset.
+
+Yingnan Ma, **Guanfang Dong**, Chenqiu Zhao, Anup Basu, and Zhengjiang Wu. <a href="https://link-to-paper.com">"Background subtraction based on principal motion for a freely moving camera"</a>, presented at the Smart Multimedia: Second International Conference, ICSM 2019, San Diego, CA, USA, December 16–18, 2019, Revised Selected Papers, 2020, pages 67-78. Published by Springer International Publishing.
+Analyzes principal motion of pixels using optical flow and RPCA for background subtraction in videos from moving cameras, achieving superior performance on benchmark datasets.
+
+
+* means authors have equal contribution.
