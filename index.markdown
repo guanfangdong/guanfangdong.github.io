@@ -33,11 +33,11 @@ update: "Last Updated: 1/10/24"
     </tbody>
 </table>
 
-## Hello World!
+## Personal Overview
 I'm a PhD Candidate at the Department of Computing Science the University of Alberta (UAlberta).
 I am currently working as a Research Assistant at the Multimedia Research Center at the University of Alberta.
 
-## A More Formal Bio
+## More Formal Biography
 Guanfang Dong is a PhD candidate in the Department of Computing Science at the University of Alberta, under the supervision of Professor Anup Basu. He received his Master's degree in Information Technology Engineering from the Hong Kong University of Science and Technology in 2020. In 2019, he obtained his Bachelor's degree in Computer Engineering from the University of Alberta. Concurrently, he undertook research internships at Huawei Laboratories, Hong Kong University of Science and Technology, where he also obtained patents. His current research focuses on theoretical and applied aspects of distribution learning.
 
 ## Some Links

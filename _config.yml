@@ -22,12 +22,12 @@ title: Guanfang Dong
 title_short: G. Dong
 email: guanfang@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
-# linkedin_username: kgmills
+linkedin_username: kgmills
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  kgmills
+github_username:  guanfang-dong-558638270
 ascend_link: "Ascend-Research"
 
 # Build settings

@@ -5,6 +5,11 @@ permalink: /publications/
 update: "Last Updated: 3/21/24"
 ---
 
+### Publications
+**Guanfang Dong**, Chenqiu Zhao, Xichen Pan, and Anup Basu. <a href="https://link-to-paper.com">"Learning Temporal Distribution and Spatial Correlation Toward Universal Moving Object Segmentation"</a>, published in IEEE Transactions on Image Processing, 2024.
+A novel method for universal moving object segmentation in diverse natural scenes using temporal distribution and spatial correlation learning.
+
+
 ### Refereed Conference Proceedings
 **Keith G. Mills**, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun and Di Niu. <a href="https://kgmills.github.io/assets/papers/AutoBuild_CVPR24.pdf">"Building Optimal Neural Architectures using Interpretable Knowledge"</a>, accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24).
 
