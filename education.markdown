@@ -20,6 +20,7 @@ Department of Computing Science, University of Alberta. <br>
 Grade: GPA: 3.5/4.0<br>
 During my undergraduate studies, I didn't confine myself solely to the coursework but actively engaged in various independent game development projects, an area that greatly interested me. However, the time commitment required for development led to a relatively lower GPA during my undergraduate years. I led the development of four independent games and co-founded a studio-qualified company with friends. One of our games was honored with the title of Game of the Year by the University of Alberta. Despite not having a high GPA, the experiences in learning and development equipped me with a strong foundation in algorithms and mathematics, which have greatly benefited my future academic pursuits.
 
+### Key Courses Taken
 
 **Mathematics**<br>
 Linear Algebra, Elementary Calculus I, Elementary Calculus II, Intermediate Calculus I, Intermediate Calculus II, Graph Theory, Theory of Interest
