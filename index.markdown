@@ -43,6 +43,7 @@ Guanfang Dong is a PhD candidate in the Department of Computing Science at the U
 ## Some Links
 [[Google Scholar]](https://scholar.google.com/citations?user=r1jhMLEAAAAJ&hl=en&oi=ao)<br>
 [[Semantic Scholar]](https://www.semanticscholar.org/author/Guanfang-Dong/1845863345)<br>
+[[LinkedIn]](https://www.linkedin.com/in/guanfang-dong-558638270/)<br>
 
 <div style="width:0px; margin:auto 0;">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=222&t=m&d=N-UhLNh1aPr-MNvJ51WE7W80gYu6JH8niQ-sYwR71Tk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
