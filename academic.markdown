@@ -9,6 +9,8 @@ update: "Last Updated: 12/17/22"
 Reviewer for ACM Transactions on Multimedia Computing, Communications, and Applications<br>
 Reviewer for IEEE Access<br>
 Reviewer for Signal, Image and Video Processing<br>
+Reviewer for BMC Medical Imaging<br>
+Reviewer for Mathematics<br>
 
 ### Teaching Experience
 
